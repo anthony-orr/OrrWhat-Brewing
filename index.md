@@ -19,5 +19,5 @@ Date Brewed: 10/15/2020
 ABV: 5.0%
 pH: N/A
 Fermentables: Maris Otter (14lbs)
-Yeast:** US-05
+Yeast: US-05
 ```
